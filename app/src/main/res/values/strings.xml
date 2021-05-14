@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DiskPizza</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+    <string name="textNome">Nome: </string>
+    <string name="textNomeHint">Digite o nome... </string>
+    <string name="textEndereço">Endereço: </string>
+    <string name="textEndereçoHint">Digite o endereço... </string>
+    <string name="textTelefone">Telefone: </string>
+    <string name="textTelefoneHint">Digite o telefone... </string>
+    <string name="textSabor" translatable="false">Sabor: </string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string-array name="arraySabor">
+        <item>Sabor...</item>
+        <item>Frango com catupiry</item>
+        <item>Coração</item>
+        <item>Calabresa</item>
+        <item>Atum</item>
+        <item>Chocolate com morango</item>
+        <item>Prestígio</item>
+    </string-array>
+
+    <string-array name="arrayTamanho">
+        <item>Medio</item>
+        <item>Grande</item>
+        <item>Pequeno</item>
+    </string-array>
+
+    <string name="txtAtencao">Atenção</string>
+    <string name="btnSalvar" translatable="false">Salvar</string>
+    <string name="toolbartxt">Cadastro de Pedidos </string>
+
+</resources>
